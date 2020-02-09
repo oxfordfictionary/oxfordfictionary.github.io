@@ -7,9 +7,9 @@ url: "http://oxfordfictionary.github.com" # the base hostname & protocol for you
 # User settings
 username: Sam Mazzuca
 user_description: I'm a student at Lambda School with special interests in machine learning, neural style transfer, data analytics, and data engineering. Stay tuned for updates to my portfolio.
-Background: In college I discovered my love of inferential statistics and the human mind while getting my degrees in psychology and communication studies. 
-Now I aspire to contribute to the development of the non-human mind; specifically, I hope to promote technology that honors the agency of people and contribute to projects that enhance the current practice of ethics in the applications of machine learning and data science. 
-In my spare time I enjoy playing video games, listening to podcasts, and reading science fiction. The Three Body Problem triology by Liu Cixin is just about my favorite thing right now. 
+Background: >In college I discovered my love of inferential statistics and the human mind while getting my degrees in psychology and communication studies. 
+>Now I aspire to contribute to the development of the non-human mind; specifically, I hope to promote technology that honors the agency of people and contribute to projects that enhance the current practice of ethics in the applications of machine learning and data science. 
+>In my spare time I enjoy playing video games, listening to podcasts, and reading science fiction. The Three Body Problem triology by Liu Cixin is just about my favorite thing right now. 
 user_title: Data Science Student
 email: sam.a.mazzuca@gmail.com
 twitter_username: LambdaSigma2
